@@ -1,2 +1,2 @@
-# STUDY-SPRING-3
-3. HTTP 웹 기본 지식(김영한) study repository
+# STUDY-SPRING-4
+4. 스프링 MVC 1편(김영한) study repository
