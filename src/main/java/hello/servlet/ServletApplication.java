@@ -2,7 +2,11 @@ package hello.servlet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.web.servlet.ServletComponentScan;
 
+// 2-1
+// 스프링이 서블릿을 자동으로 등록
+@ServletComponentScan
 @SpringBootApplication
 public class ServletApplication {
 
